@@ -1,4 +1,5 @@
 <?php
+include_once("index.php");
 include 'includes/common.php';
 if (isset($_SESSION['email'])) 
 	{ 
